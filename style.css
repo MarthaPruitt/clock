@@ -8,7 +8,7 @@ font-family: 'Times New Roman', Times, serif;
 :root{
 --primary-color:rgb(219, 235, 226);
 --white-color:#fff;
---black-color:black;
+--black-color:rgb(41, 13, 78);
 --red-color:salmon;
 --green-color: rgb(200,76,567);
 }
